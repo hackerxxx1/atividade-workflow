@@ -1,19 +1,19 @@
 function soma(a, b) {
-    //soma
+    //soma a e b
     return a+b
 }
 function subtracao(a, b) {
-    //subtrai
+    //subtrai a e b
     return a-b
 }
 
 function divisao(a, b) {
-    //divide
+    //divide  a e b
     return a/b
 }
 
 function multiplicacao(a, b) {
-    //mutiplica
+    //mutiplica a e b
     return a*b
 }
 
